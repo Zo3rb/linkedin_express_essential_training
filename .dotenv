@@ -1,0 +1,2 @@
+NODE_ENV=development
+DATABASE_URI=mongodb+srv://ali:aa123456@cluster0.ou0sk.mongodb.net/crmDB?retryWrites=true&w=majority
